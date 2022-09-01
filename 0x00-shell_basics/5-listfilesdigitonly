@@ -1,2 +1,2 @@
-"#!/bin/bash"
-ls -na
+echo "#/bin/bash"
+ls 
